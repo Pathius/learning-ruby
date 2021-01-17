@@ -18,7 +18,7 @@ class Quiz
         puts "Bad answer :( \n\n"
       end
     end
-    puts "Congratulations, you've ended this game with score " + @score.to_s
+    puts "Congratulations, you've ended this game with " + @score.to_s + " points out of " + @questions.length.to_s + " maximum!"
   end
 end
 
