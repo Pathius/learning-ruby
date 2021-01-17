@@ -1,4 +1,7 @@
 # COMMENTS ARE MADE WITH HASH
+=begin
+  OR WITH THOSE CHARS
+=end
 
 # PRINTING DATA
 puts 'Sup mate'
